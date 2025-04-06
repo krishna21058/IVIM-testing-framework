@@ -1,0 +1,7 @@
+{
+    "dataset_size": 1000,
+    "iterations": 12,
+    "evaluation_metrics": ["accuracy", "precision", "recall"],
+    "noise_level": 0.1,
+    "plugin_dir": "ivim_framework/plugins"
+}
